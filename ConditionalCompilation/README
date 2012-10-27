@@ -1,0 +1,4 @@
+dmd ComditionalComp.d
+./ConditionalComp
+
+Make sure to show the code first

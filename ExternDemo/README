@@ -1,0 +1,3 @@
+run ./build.sh to build it
+
+it compies the c and cpp program into .o files, then links them with dmd
